@@ -33,7 +33,7 @@ remote_theme: just-the-docs/just-the-docs
 #theme: just-the-docs
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 
 
 #Theme settings
@@ -69,6 +69,4 @@ color_scheme: dark
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
-#   - vendor/ruby/
-
-theme: jekyll-theme-hacker
+#   - vendor/rub
